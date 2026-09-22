@@ -1,49 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-09-08T15:44:38 IST" name="Default suite" finished-at="2026-09-08T15:44:38 IST" duration-ms="99">
+  <suite started-at="2026-09-22T11:04:11 IST" name="Suite" finished-at="2026-09-22T11:04:11 IST" duration-ms="13">
     <groups>
     </groups>
-    <test started-at="2026-09-08T15:44:38 IST" name="Default test" finished-at="2026-09-08T15:44:38 IST" duration-ms="99">
-      <class name="practice.ConfigAnnotation">
-        <test-method is-config="true" signature="configBS()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="configBS" finished-at="2026-09-08T15:44:38 IST" duration-ms="18" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configBS -->
-        <test-method is-config="true" signature="configBC()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="configBC" finished-at="2026-09-08T15:44:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configBC -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="configBM" finished-at="2026-09-08T15:44:38 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configBM -->
-        <test-method signature="createContact()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="createContact" finished-at="2026-09-08T15:44:38 IST" duration-ms="14" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createContact -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="configAM" finished-at="2026-09-08T15:44:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="configBM" finished-at="2026-09-08T15:44:38 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configBM -->
-        <test-method signature="createContactWithDate()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="createContactWithDate" finished-at="2026-09-08T15:44:38 IST" duration-ms="6" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createContactWithDate -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="configAM" finished-at="2026-09-08T15:44:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="configAC()[pri:0, instance:practice.ConfigAnnotation@292b08d6]" started-at="2026-09-08T15:44:38 IST" name="configAC" finished-at="2026-09-08T15:44:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configAC -->
-      </class> <!-- practice.ConfigAnnotation -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    <test started-at="2026-09-22T11:04:11 IST" name="Test" finished-at="2026-09-22T11:04:11 IST" duration-ms="13">
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

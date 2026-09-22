@@ -1,0 +1,12 @@
+<suite thread-count="2" parallel="tests" name="Suite">
+  <test  name="Test-1">
+    <classes>
+      <class name="com.comcast.crm.contacttest.CreateContactTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test-2">
+    <classes>
+      <class name="com.comcast.crm.orgtest.CreateOrganizationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,19 @@
+<suite thread-count="2" parallel="tests" name="Suite">
+<listeners>
+<listener class-name="com.comcast.crm.listenerutility.ListenerImplementation"/>
+</listeners>
+  <test name="TestRunner-Firefox">
+  <parameter name = "BROWSER" value="firefox"/>
+    <classes>
+      <class name="com.comcast.crm.contacttest.CreateContactTest"/>
+      <class name="com.comcast.crm.orgtest.CreateOrganizationTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="TestRunner-chrome">
+  <parameter name = "BROWSER" value="chrome"/>
+    <classes>
+      <class name="com.comcast.crm.contacttest.CreateContactTest"/>
+      <class name="com.comcast.crm.orgtest.CreateOrganizationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
