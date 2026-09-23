@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-09-21T13:26:17 IST" name="Default suite" finished-at="2026-09-21T13:26:17 IST" duration-ms="68">
+  <suite started-at="2026-09-23T14:37:03 IST" name="Suite" finished-at="2026-09-23T14:37:03 IST" duration-ms="111">
     <groups>
     </groups>
-    <test started-at="2026-09-21T13:26:17 IST" name="Default test" finished-at="2026-09-21T13:26:17 IST" duration-ms="68">
-      <class name="pack2.OrgTest">
-        <test-method signature="modifyOrgTest()[pri:0, instance:pack2.OrgTest@3349e9bb]" started-at="2026-09-21T13:26:17 IST" name="modifyOrgTest" finished-at="2026-09-21T13:26:17 IST" duration-ms="14" status="PASS">
+    <test started-at="2026-09-23T14:37:03 IST" name="Test" finished-at="2026-09-23T14:37:03 IST" duration-ms="111">
+      <class name="pack1.ContactTest">
+        <test-method signature="createContactTest()[pri:0, instance:pack1.ContactTest@1283bb96]" started-at="2026-09-23T14:37:03 IST" name="createContactTest" finished-at="2026-09-23T14:37:03 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- modifyOrgTest -->
-      </class> <!-- pack2.OrgTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- createContactTest -->
+        <test-method signature="modifyContactTest()[pri:0, instance:pack1.ContactTest@1283bb96]" started-at="2026-09-23T14:37:03 IST" name="modifyContactTest" finished-at="2026-09-23T14:37:03 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyContactTest -->
+      </class> <!-- pack1.ContactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
